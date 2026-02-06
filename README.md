@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jiratchaya Phinyodom</h1>
-<h3 align="center">I'm study sofware security at Okayama University.</h3>
-<h3 align="center">I'm graduate Software Engineering at Kasetsart University.</h3>
+<h3 align="center">Studing sofware security at Okayama University.</h3>
+<h3 align="center">Graduate Software Engineering at Kasetsart University.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
